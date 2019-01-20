@@ -32,7 +32,7 @@
         <?php while($equipos = $listadoEquipos->fetch_object()): ?>
        
         <tr>
-           <a href=""> <td><?= $equipos->Tag;?></td></a>
+            <td><?= $equipos->Tag;?></td>
             <td><?= $equipos->Codigo_Sap;?></td>
             <td><?= $equipos->Descripcion;?></td>
             <td><?= $equipos->Ubicacion;?></td>
