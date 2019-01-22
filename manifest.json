@@ -1,0 +1,20 @@
+{
+  "name": "#AppIntegral",
+  "short_name": "#AppIntegral",
+  "description": "Aplicacion para gestionar equipos del departamento de instrumentación del ingenio chaparrastique",
+  "background_color": "#6e96f9",
+  "theme_color": "#7ae403",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=homescreen",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./build/images/APPINTEGRAL1.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+    
+  ]
+}

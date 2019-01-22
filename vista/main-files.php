@@ -19,5 +19,6 @@
     
     <script src="../build/js/sweetalert.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
+    <script src="../script.js"></script>
   </body>
 </html>

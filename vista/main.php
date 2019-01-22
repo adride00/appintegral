@@ -1,14 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
+  <title>AppIntegral</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- Meta, title, CSS, favicons, etc. -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" href="images/favicon.ico" type="image/ico" />
+    <meta name="description" content="Aplicacion para gestionar equipos del departamento de instrumentación del ingenio chaparrastique">
 
-    <title>AppIntegral</title>
+    <meta name="theme-color" content="#F0DB4F">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="shortcut icon" type="image/png" href="../build/images/APPINTEGRAL1.png">
+    <link rel="apple-touch-icon" href="./build/images/APPINTEGRAL.ico">
+    <link rel="apple-touch-startup-image" href="./build/images/APPINTEGRAL.ico">
+    <link rel="manifest" href="../manifest.json">
+    
+    <link rel="icon" href="./build/images/APPINTEGRAL4.png" type="image/ico" />
+	<link rel="icon" href="./build/images/APPINTEGRAL.ico" type="image/ico" />
+
+    
 
     <!-- Bootstrap -->
     
